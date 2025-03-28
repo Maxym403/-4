@@ -1,0 +1,11 @@
+﻿  ДЗ 4.cpp
+C:\Users\Maxym\Desktop\ДЗ 4\ДЗ 4.cpp(146,21): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Maxym\Desktop\ДЗ 4\ДЗ 4.cpp(146,25): error C2429: language feature 'init-statements in if/switch' requires compiler flag '/std:c++17'
+C:\Users\Maxym\Desktop\ДЗ 4\ДЗ 4.cpp(146,37): error C2143: syntax error: missing ')' before ';'
+C:\Users\Maxym\Desktop\ДЗ 4\ДЗ 4.cpp(146,41): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Maxym\Desktop\ДЗ 4\ДЗ 4.cpp(146,49): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Maxym\Desktop\ДЗ 4\ДЗ 4.cpp(146,61): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Maxym\Desktop\ДЗ 4\ДЗ 4.cpp(146,69): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Maxym\Desktop\ДЗ 4\ДЗ 4.cpp(146,79): error C2059: syntax error: ')'
+C:\Users\Maxym\Desktop\ДЗ 4\ДЗ 4.cpp(149,15): error C2181: illegal else without matching if
+C:\Users\Maxym\Desktop\ДЗ 4\ДЗ 4.cpp(146,37): warning C4390: ';': empty controlled statement found; is this the intent?
